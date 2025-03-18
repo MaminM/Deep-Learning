@@ -8,7 +8,7 @@
 There isn't much to see here
 ![[Untitled 10.png]]
 ![[Untitled-1 3.png]]
-## This is less wrong
+## This is less wrong (correct actually)
 
 **Predictions**
 ![[Untitled-1 9.png]]
@@ -118,3 +118,13 @@ Start: TYRION pours himself some wine and drinks it down. He pours another glass
 Continuation: lousupersides, awfade, KOVARR AEMONT rapidrleyed it from buy more, pledgen into askes away. SEPTON:
 
 ## Word-level
+
+Temperature: 0.00, BLEU Score: 0.0741
+Temperature: 0.50, BLEU Score: 0.2133
+Temperature: 1.00, BLEU Score: 0.4515
+Temperature: 1.50, BLEU Score: 0.3903
+Temperature: 2.00, BLEU Score: 0.3384
+
+![[Untitled 17.png]]
+### Trial 2
+
