@@ -49,14 +49,6 @@
 - **Minimal overfitting:** All models showed minimal overfitting, with similar training and validation performance.
 - **Autoencoders superior reconstruction:** The autoencoders reconstructed images with much higher fidelity than PCA, as evidenced by their substantially lower MSE values.
 
-## Potentially useful Images
-
-
-
-
-
-
-
 
 
 

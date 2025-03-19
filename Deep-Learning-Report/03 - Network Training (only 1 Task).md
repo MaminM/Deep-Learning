@@ -31,7 +31,6 @@ Best validation accuracy = 0.7983
 keras.layers.RandomFlip("horizontal"),   # Randomly flip images horizontally
 keras.layers.RandomRotation(0.1),        # Small random rotation (±10%)
 keras.layers.RandomTranslation(0.1, 0.1) # Slight random shifts (10% width/height)
-
 ```
 
 ![[Pasted image 20250305111736.png]]

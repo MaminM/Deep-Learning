@@ -82,7 +82,6 @@ Example sentiment analysis *(positive and negative review)*
 	- global average pooling is the same for both sentences because both sentences at the word level are identical, the average pooling takes the average of all the words and hence the scores are identical
 	- the LSTM with our learnt embeddings performs better in that the scores are different **and** the positive sentence has a higher score. 
 	- the LSTM with GloVe embeddings performs even better, with a larger gap in the scores between the two opposite sentences
-	- **To conclude:** the
 
 
 # Task 3 - Text Generation

@@ -1,13 +1,21 @@
 
 # Task 1 - MNIST generation using VAE and GAE
 
-## VAE
+## VAE with KL
 
 latent dimension = 10
 MSE = 0.0118
 IS = 7.289855
 
 ![[Untitled 22.png]]
+
+## VAE without KL
+
+The MSE is: 0.0123
+IS  = 7.1095953
+
+![[Pasted image 20250319154825.png]]
+
 
 ## GAN
 
