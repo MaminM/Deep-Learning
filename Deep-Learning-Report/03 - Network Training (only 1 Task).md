@@ -1,6 +1,14 @@
 # Summary of Preamble
 ## Optimisers
 
+| --- | --- |     |
+| --- | --- | --- |
+|     |     |     |
+
+| fsflsd    | fsldmflskd |
+| --------- | ---------- |
+| fsdmnflds | dfmsnlkfd  |
+$$\mathbb{E} \{ X\} = \sum_{x\in X} x\  \mathbb{P}(X = x)$$
 
 
 ## Initialisers
