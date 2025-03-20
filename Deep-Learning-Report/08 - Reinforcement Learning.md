@@ -1,5 +1,10 @@
-
 # Image
+## Good Image
+
+![[Pasted image 20250320103355.png]]
+
+
+## Other images
 
 ![[Pasted image 20250319193109.png]]
 
